@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(27, 23, 41);
+    color: white;
+}
+
+.container-div {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50vw;
+    
+}
+
+h1 {
+    text-align: center;
+    margin: 1.5rem;
+}
+
+h2 {
+    text-align: center;
+    border: 1px solid white;
+    padding: 0.6rem;
+    border-radius: 0.6rem;
+}
+
+label {
+    padding-top: 0.6rem;
+    font-size: larger;
+}
+
+input {
+    padding: 0.5rem;
+}
+
+button {
+    margin-top: 1rem;
+    padding: 0.4rem;
+    border-style: none;
+    background-color: rgb(196, 158, 196);
+    font-size: large;
+}
+
+#output {
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 1rem;
+}
+

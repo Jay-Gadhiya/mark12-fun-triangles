@@ -1,0 +1,50 @@
+
+
+body {
+    background-color: rgb(27, 23, 41);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin: 1rem;
+}
+
+
+.container-div {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50vw;
+    
+}
+
+.question-container {
+    border: 1px solid white;
+    padding: 1.5rem;
+    border-radius: 0.6rem;
+    margin-top: 0.6rem;
+}
+
+.para {
+    font-size: large;
+}
+
+
+button {
+    margin-top: 1rem;
+    padding: 0.4rem;
+    border-style: none;
+    background-color: rgb(196, 158, 196);
+}
+
+#output {
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 1rem;
+}
+
+input {
+    font-size: large;
+}
+
